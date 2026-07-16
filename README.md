@@ -11,5 +11,6 @@ Files:
 - `hello.go` - Go
 - `hello.rb` - Ruby
 - `hello.rs` - Rust
+- `hello_author.py` - Author example in Python
 
 Run the programs using the appropriate language runtime or compiler.
